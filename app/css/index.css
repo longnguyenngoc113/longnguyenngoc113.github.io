@@ -70,4 +70,41 @@ ul {
 body {
   background: #f1f2f7; }
 
+.skill {
+  margin-top: 100px; }
+  .skill .skill-title {
+    height: 80px;
+    padding-top: 15px;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 50px; }
+  .skill .skill-content {
+    height: 300px; }
+  .skill .line {
+    position: relative;
+    height: 15px;
+    width: 80%;
+    background-color: #d1cdcd;
+    overflow: hidden; }
+    .skill .line .Quality {
+      position: absolute;
+      top: -4px;
+      height: 15px;
+      background-color: #1a1a1a; }
+      .skill .line .Quality span {
+        margin-top: -5px;
+        margin-right: 10px; }
+  .skill .html-css {
+    margin-top: 5px;
+    width: 85%; }
+  .skill .JavaScript {
+    margin-top: 5px;
+    width: 60%; }
+  .skill .Jquery {
+    margin-top: 5px;
+    width: 55%; }
+  .skill .Algorithm {
+    margin-top: 5px;
+    width: 78%; }
+
 /*# sourceMappingURL=index.css.map */
