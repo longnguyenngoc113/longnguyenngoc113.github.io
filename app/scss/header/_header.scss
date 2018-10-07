@@ -1,0 +1,34 @@
+.header
+{
+    background-image: url("../imgs/what-are-the-most-in-demand-developer-skills.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 836px;
+    position: relative;
+
+    .Bg-color
+    {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(26, 188, 156);
+        opacity: 0.85;
+    }
+
+    .content
+    {
+        color: black;
+        text-align: center;
+        position: absolute;
+        left: 35%;
+        top: 30%;
+        font-size: 30px;
+
+        h1
+        {
+            font-size: 70px;
+        }
+    }
+}
