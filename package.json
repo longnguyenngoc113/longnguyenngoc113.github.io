@@ -1,0 +1,23 @@
+{
+  "name": "longnguyenngoc113.github.io",
+  "version": "1.0.0",
+  "description": "CV của tôi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longnguyenngoc113/longnguyenngoc113.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longnguyenngoc113/longnguyenngoc113.github.io/issues"
+  },
+  "homepage": "https://github.com/longnguyenngoc113/longnguyenngoc113.github.io#readme",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "wow.js": "^1.2.2"
+  }
+}
